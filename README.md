@@ -254,3 +254,25 @@ Lets add a button in the `BeerDetailsPage` component that when clicked will send
 
 
 
+
+### Bonus: Iteration 6 | Filter the beers
+
+As the final feature, we will implement a search functionality where users can filter beers based on keywords.
+
+the package we are using for our API is called json-server. within this package we can add some extra information to the end of our GET request to narrow down the results of our get request. In this iteration 
+check the documentation for the json-server package for filter **hint hint** the values we request from the API.
+
+[json-server Official Documentation](https://github.com/typicode/json-server/tree/v0?tab=readme-ov-file#routes)
+
+
+**We are done!** :trophy:
+
+
+
+Awesome! If you're of legal drinking age and allowed to, feel free to celebrate with a beer! :wink: You've now become a **React Warrior**. Keep practicing, and soon you'll be a React Ninja!
+
+<br>
+
+Happy coding! :heart:
+
+<br>
