@@ -262,7 +262,7 @@ As the final feature, we will implement a search functionality where users can f
 the package we are using for our API is called json-server. within this package we can add some extra information to the end of our GET request to narrow down the results of our get request. In this iteration 
 check the documentation for the json-server package for filter **hint hint** the values we request from the API.
 
-[json-server Official Documentation](https://github.com/typicode/json-server/tree/v0?tab=readme-ov-file#routes)
+[json-server Official Documentation](https://github.com/typicode/json-server/tree/v0?tab=readme-ov-file#filter)
 
 
 **We are done!** :trophy:
