@@ -37,10 +37,23 @@
 - Open the LAB and start:
 
   ```bash
-  cd lab-react-ironnutrition-vite
+  cd lab-full-crud/frontend
   npm install
   npm run dev
   ```
+
+- You can press O and hit enter on the terminal to launch the vite application on the browser
+<br/>
+<br/>
+- In another terminal:
+
+  ```bash
+  cd lab-full-crud/json-server-backend
+  npm install
+  npm run dev
+  ```
+
+  That will start the mock backend for the lab
 
 ## Submission
 
@@ -73,7 +86,7 @@ The API provides the following endpoints:
 | `GET`  | `/beers/:id`              | { beer }                                               | Get a single/specific beer                                   |
 | `PUT`  | `/beers/:id`           | { beer }                                               | Update the value of a specific beer                                |
 | `POST` | `/beers`              | { beer} | Create a new beer              | 
-| `DELETE`  | `beers/:id` |{}                                               | Delete a specific beer |
+| `DELETE`  | `/beers/:id` |{}                                               | Delete a specific beer |
 
 
 Test the endpoints provided for this API above in postman.
@@ -96,7 +109,7 @@ When a user clicks on one of the beers in the list on the `AllBeersPage`, they s
 
 <br>
 
-#### 5.1 | Access URL Parameter
+#### 2.1 | Access URL Parameter
 
 To access URL parameter `beerId` from the browser's URL bar, use the React Router hook `useParams`.
 
@@ -106,7 +119,7 @@ Check [this example](https://reactrouter.com/en/6.10.0/hooks/use-params) if you 
 
 
 
-#### 5.2 | Make a request to the API
+#### 2.2 | Make a request to the API
 
 To get the beer details, you need to make a `GET` request to the Beers API endpoint `https://ih-beers-api2.herokuapp.com/beers/:id`, where `:id` should be replaced with the id of the selected beer. 
 
@@ -118,7 +131,7 @@ Remember to **`console.log`** the response data to help you visualize the struct
 
 
 
-#### 5.3 | Display Beer Details
+#### 2.3 | Display Beer Details
 
 The `BeerDetailsPage` component should display the following information about the selected beer:
 
