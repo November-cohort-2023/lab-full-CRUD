@@ -2,7 +2,7 @@
   "beers": [
     {
       "image_url": "https://images.punkapi.com/v2/keg.png",
-      "_id": 1,
+      "id": 1,
       "name": "Buzz",
       "tagline": "A Real Bitter Experience.",
       "first_brewed": "09/2007",
@@ -12,23 +12,20 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.230Z",
       "__v": 0
-  },
-  {
-      "image_url": "https://images.punkapi.com/v2/2.png",
-      "_id": 2,
+    },
+    {
       "name": "Trashy Blonde",
       "tagline": "You Know You Shouldn't",
-      "first_brewed": "04/2008",
       "description": "A titillating, neurotic, peroxide punk of a Pale Ale. Combining attitude, style, substance, and a little bit of low self esteem for good measure; what would your mother say? The seductive lure of the sassy passion fruit hop proves too much to resist. All that is even before we get onto the fact that there are no additives, preservatives, pasteurization or strings attached. All wrapped up with the customary BrewDog bite and imaginative twist.",
-      "attenuation_level": 76,
-      "brewers_tips": "Be careful not to collect too much wort from the mash. Once the sugars are all washed out there are some very unpleasant grainy tasting compounds that can be extracted into the wort.",
-      "contributed_by": "Sam Mason <samjbmason>",
-      "expireAt": "2024-02-06T07:00:33.232Z",
-      "__v": 0
-  },
-  {
+      "first_brewed": "wewfd",
+      "brewers_tips": "ewfewf",
+      "attenuation_level": "21",
+      "contributed_by": "sdf",
+      "id": 2
+    },
+    {
       "image_url": "https://images.punkapi.com/v2/keg.png",
-      "_id": 3,
+      "id": 3,
       "name": "Berliner Weisse With Yuzu - B-Sides",
       "tagline": "Japanese Citrus Berliner Weisse.",
       "first_brewed": "11/2015",
@@ -38,36 +35,20 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.232Z",
       "__v": 0
-  },
-  {
-      "image_url": "https://images.punkapi.com/v2/4.png",
-      "_id": 4,
+    },
+    {
       "name": "Pilsen Lager",
       "tagline": "Unleash the Yeast Series.",
-      "first_brewed": "09/2013",
       "description": "Our Unleash the Yeast series was an epic experiment into the differences in aroma and flavour provided by switching up your yeast. We brewed up a wort with a light caramel note and some toasty biscuit flavour, and hopped it with Amarillo and Centennial for a citrusy bitterness. Everything else is down to the yeast. Pilsner yeast ferments with no fruity esters or spicy phenols, although it can add a hint of butterscotch.",
-      "attenuation_level": 80,
-      "brewers_tips": "Play around with the fermentation temperature to get the best flavour profile from the individual yeasts.",
-      "contributed_by": "Ali Skinner <AliSkinner>",
-      "expireAt": "2024-02-06T07:00:33.232Z",
-      "__v": 0
-  },
-  {
-      "image_url": "https://images.punkapi.com/v2/5.png",
-      "_id": 5,
-      "name": "Avery Brown Dredge",
-      "tagline": "Bloggers' Imperial Pilsner.",
-      "first_brewed": "02/2011",
-      "description": "An Imperial Pilsner in collaboration with beer writers. Tradition. Homage. Revolution. We wanted to showcase the awesome backbone of the Czech brewing tradition, the noble Saaz hop, and also tip our hats to the modern beers that rock our world, and the people who make them.",
-      "attenuation_level": 67,
-      "brewers_tips": "Make sure you have a big enough yeast starter to ferment through the OG and lager successfully.",
-      "contributed_by": "Sam Mason <samjbmason>",
-      "expireAt": "2024-02-06T07:00:33.233Z",
-      "__v": 0
-  },
-  {
+      "firstBrewed": "09/20900",
+      "brewersTips": "Play around with the fermentation temperature to get the best flavour profile from the individual yeasts.",
+      "attenuationLevel": 80,
+      "contributedBy": "Ali Skinner <AliSkinner>",
+      "id": 4
+    },
+    {
       "image_url": "https://images.punkapi.com/v2/6.png",
-      "_id": 6,
+      "id": 6,
       "name": "Electric India",
       "tagline": "Vibrant Hoppy Saison.",
       "first_brewed": "05/2013",
@@ -77,10 +58,10 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.233Z",
       "__v": 0
-  },
-  {
+    },
+    {
       "image_url": "https://images.punkapi.com/v2/7.png",
-      "_id": 7,
+      "id": 7,
       "name": "AB:12",
       "tagline": "Imperial Black Belgian Ale.",
       "first_brewed": "07/2012",
@@ -90,10 +71,10 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.234Z",
       "__v": 0
-  },
-  {
+    },
+    {
       "image_url": "https://images.punkapi.com/v2/8.png",
-      "_id": 8,
+      "id": 8,
       "name": "Fake Lager",
       "tagline": "Bohemian Pilsner.",
       "first_brewed": "03/2013",
@@ -103,10 +84,10 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.234Z",
       "__v": 0
-  },
-  {
+    },
+    {
       "image_url": "https://images.punkapi.com/v2/9.png",
-      "_id": 9,
+      "id": 9,
       "name": "AB:07",
       "tagline": "Whisky Cask-Aged Scotch Ale.",
       "first_brewed": "03/2010",
@@ -116,10 +97,10 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.234Z",
       "__v": 0
-  },
-  {
+    },
+    {
       "image_url": "https://images.punkapi.com/v2/10.png",
-      "_id": 10,
+      "id": 10,
       "name": "Bramling X",
       "tagline": "Single Hop IPA Series - 2011.",
       "first_brewed": "01/2011",
@@ -129,10 +110,10 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.235Z",
       "__v": 0
-  },
-  {
+    },
+    {
       "image_url": "https://images.punkapi.com/v2/keg.png",
-      "_id": 11,
+      "id": 11,
       "name": "Misspent Youth",
       "tagline": "Milk & Honey Scotch Ale.",
       "first_brewed": "04/2013",
@@ -142,10 +123,10 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.235Z",
       "__v": 0
-  },
-  {
+    },
+    {
       "image_url": "https://images.punkapi.com/v2/12.png",
-      "_id": 12,
+      "id": 12,
       "name": "Arcade Nation",
       "tagline": "Seasonal Black IPA.",
       "first_brewed": "12/2015",
@@ -155,10 +136,10 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.235Z",
       "__v": 0
-  },
-  {
+    },
+    {
       "image_url": "https://images.punkapi.com/v2/13.png",
-      "_id": 13,
+      "id": 13,
       "name": "Movember",
       "tagline": "Moustache-Worthy Beer.",
       "first_brewed": "11/2009",
@@ -168,23 +149,21 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.235Z",
       "__v": 0
-  },
-  {
-      "image_url": "https://images.punkapi.com/v2/14.png",
-      "_id": 14,
-      "name": "Alpha Dog",
+    },
+    {
+      "name": "Alpha Dog Doggo Dog",
       "tagline": "Existential Red Ale.",
-      "first_brewed": "02/2010",
       "description": "A fusion of caramel malt flavours and punchy New Zealand hops. A session beer you can get your teeth into.",
-      "attenuation_level": 72.8,
+      "first_brewed": "02/2010",
       "brewers_tips": "Crush the malt as close to brewing time as possible. The fresher the malt, the more intense caramel flavours will be released in the wort.",
+      "attenuation_level": 72.8,
       "contributed_by": "Sam Mason <samjbmason>",
-      "expireAt": "2024-02-06T07:00:33.235Z",
-      "__v": 0
-  },
-  {
+      "image_url": "https://images.punkapi.com/v2/14.png",
+      "id": 14
+    },
+    {
       "image_url": "https://images.punkapi.com/v2/15.png",
-      "_id": 15,
+      "id": 15,
       "name": "Mixtape 8",
       "tagline": "An Epic Fusion Of Old Belgian, American New Wave, And Scotch Whisky.",
       "first_brewed": "01/2012",
@@ -194,10 +173,10 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.236Z",
       "__v": 0
-  },
-  {
+    },
+    {
       "image_url": "https://images.punkapi.com/v2/16.png",
-      "_id": 16,
+      "id": 16,
       "name": "Libertine Porter",
       "tagline": "Dry-Hopped Aggressive Porter.",
       "first_brewed": "01/2012",
@@ -207,10 +186,10 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.236Z",
       "__v": 0
-  },
-  {
+    },
+    {
       "image_url": "https://images.punkapi.com/v2/17.png",
-      "_id": 17,
+      "id": 17,
       "name": "AB:06",
       "tagline": "Imperial Black IPA.",
       "first_brewed": "04/2011",
@@ -220,10 +199,10 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.236Z",
       "__v": 0
-  },
-  {
+    },
+    {
       "image_url": "https://images.punkapi.com/v2/18.png",
-      "_id": 18,
+      "id": 18,
       "name": "Russian Doll – India Pale Ale",
       "tagline": "Nesting Hop Bomb.",
       "first_brewed": "08/2014",
@@ -233,10 +212,10 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.236Z",
       "__v": 0
-  },
-  {
+    },
+    {
       "image_url": "https://images.punkapi.com/v2/19.png",
-      "_id": 19,
+      "id": 19,
       "name": "Hello My Name Is Mette-Marit",
       "tagline": "Lingonberry Double IPA.",
       "first_brewed": "06/2013",
@@ -246,10 +225,10 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.237Z",
       "__v": 0
-  },
-  {
+    },
+    {
       "image_url": "https://images.punkapi.com/v2/keg.png",
-      "_id": 20,
+      "id": 20,
       "name": "Rabiator",
       "tagline": "Imperial Wheat Beer",
       "first_brewed": "03/2011",
@@ -259,10 +238,10 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.237Z",
       "__v": 0
-  },
-  {
+    },
+    {
       "image_url": "https://images.punkapi.com/v2/keg.png",
-      "_id": 21,
+      "id": 21,
       "name": "Vice Bier",
       "tagline": "Hoppy Wheat Bier.",
       "first_brewed": "04/2013",
@@ -272,10 +251,10 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.237Z",
       "__v": 0
-  },
-  {
+    },
+    {
       "image_url": "https://images.punkapi.com/v2/22.png",
-      "_id": 22,
+      "id": 22,
       "name": "Devine Rebel (w/ Mikkeller)",
       "tagline": "Oak-aged Barley Wine.",
       "first_brewed": "12/2008",
@@ -285,6 +264,6 @@
       "contributed_by": "Sam Mason <samjbmason>",
       "expireAt": "2024-02-06T07:00:33.238Z",
       "__v": 0
-  }
+    }
   ]
 }

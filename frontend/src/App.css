@@ -40,3 +40,32 @@
 .read-the-docs {
   color: #888;
 }
+
+.add-beer-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.add-beer-label {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.buttons-edit-delete {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.buttons-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+#search-bar {
+  margin-bottom: 40px;
+  padding: 10px;
+}
